@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/your-repository-name/static/css/main.1ec4100f.css",
-    "main.js": "/your-repository-name/static/js/main.fe27350e.js",
-    "static/js/453.4707c2c3.chunk.js": "/your-repository-name/static/js/453.4707c2c3.chunk.js",
-    "static/media/Logo Sticker.svg": "/your-repository-name/static/media/Logo Sticker.a339ca53faedbd0a5261c3f09358e216.svg",
-    "static/media/instagram.svg": "/your-repository-name/static/media/instagram.8898895189eecdb15188a05b54dacdf0.svg",
-    "static/media/whatsapp.svg": "/your-repository-name/static/media/whatsapp.4680c58d0706e0ba4dcd3916da9c0d7d.svg",
-    "static/media/phone.svg": "/your-repository-name/static/media/phone.d6203e431c00731ee50615bb188f82fa.svg",
-    "index.html": "/your-repository-name/index.html",
-    "static/media/location.svg": "/your-repository-name/static/media/location.1838ae44a3e31370fcb8168d57979dc7.svg",
-    "static/media/facebook.svg": "/your-repository-name/static/media/facebook.9e3f81fb3b0b938a8452ede6f0b96588.svg",
-    "static/media/Chevron.svg": "/your-repository-name/static/media/Chevron.683321029fb820034d0da3c38da3f102.svg",
-    "main.1ec4100f.css.map": "/your-repository-name/static/css/main.1ec4100f.css.map",
-    "main.fe27350e.js.map": "/your-repository-name/static/js/main.fe27350e.js.map",
-    "453.4707c2c3.chunk.js.map": "/your-repository-name/static/js/453.4707c2c3.chunk.js.map"
+    "main.css": "/christinebakery.github.io/static/css/main.1ec4100f.css",
+    "main.js": "/christinebakery.github.io/static/js/main.8e8e726c.js",
+    "static/js/453.4707c2c3.chunk.js": "/christinebakery.github.io/static/js/453.4707c2c3.chunk.js",
+    "static/media/Logo Sticker.svg": "/christinebakery.github.io/static/media/Logo Sticker.a339ca53faedbd0a5261c3f09358e216.svg",
+    "static/media/instagram.svg": "/christinebakery.github.io/static/media/instagram.8898895189eecdb15188a05b54dacdf0.svg",
+    "static/media/whatsapp.svg": "/christinebakery.github.io/static/media/whatsapp.4680c58d0706e0ba4dcd3916da9c0d7d.svg",
+    "static/media/phone.svg": "/christinebakery.github.io/static/media/phone.d6203e431c00731ee50615bb188f82fa.svg",
+    "index.html": "/christinebakery.github.io/index.html",
+    "static/media/location.svg": "/christinebakery.github.io/static/media/location.1838ae44a3e31370fcb8168d57979dc7.svg",
+    "static/media/facebook.svg": "/christinebakery.github.io/static/media/facebook.9e3f81fb3b0b938a8452ede6f0b96588.svg",
+    "static/media/Chevron.svg": "/christinebakery.github.io/static/media/Chevron.683321029fb820034d0da3c38da3f102.svg",
+    "main.1ec4100f.css.map": "/christinebakery.github.io/static/css/main.1ec4100f.css.map",
+    "main.8e8e726c.js.map": "/christinebakery.github.io/static/js/main.8e8e726c.js.map",
+    "453.4707c2c3.chunk.js.map": "/christinebakery.github.io/static/js/453.4707c2c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ec4100f.css",
-    "static/js/main.fe27350e.js"
+    "static/js/main.8e8e726c.js"
   ]
 }
