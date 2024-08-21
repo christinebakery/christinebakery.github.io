@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ec4100f.css",
-    "main.js": "/static/js/main.753865fa.js",
+    "main.css": "/static/css/main.1bfd3f1b.css",
+    "main.js": "/static/js/main.4ca14557.js",
     "static/js/453.4707c2c3.chunk.js": "/static/js/453.4707c2c3.chunk.js",
     "static/media/Logo Sticker.svg": "/static/media/Logo Sticker.a339ca53faedbd0a5261c3f09358e216.svg",
     "static/media/instagram.svg": "/static/media/instagram.8898895189eecdb15188a05b54dacdf0.svg",
@@ -11,12 +11,12 @@
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.9e3f81fb3b0b938a8452ede6f0b96588.svg",
     "static/media/Chevron.svg": "/static/media/Chevron.683321029fb820034d0da3c38da3f102.svg",
-    "main.1ec4100f.css.map": "/static/css/main.1ec4100f.css.map",
-    "main.753865fa.js.map": "/static/js/main.753865fa.js.map",
+    "main.1bfd3f1b.css.map": "/static/css/main.1bfd3f1b.css.map",
+    "main.4ca14557.js.map": "/static/js/main.4ca14557.js.map",
     "453.4707c2c3.chunk.js.map": "/static/js/453.4707c2c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ec4100f.css",
-    "static/js/main.753865fa.js"
+    "static/css/main.1bfd3f1b.css",
+    "static/js/main.4ca14557.js"
   ]
 }
