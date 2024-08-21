@@ -41,6 +41,15 @@ function App() {
         </div>
       </div>
       <div className="App-footer">
+        <div className="App-contact">
+          <div className="text">
+            <p>PT. Massi Sukses Perkasa</p>
+            <p>+62 817-004-3359</p>
+            <a href="mailto:mien@christinebakery.store">
+              <p>mien@christinebakery.store</p>
+            </a>
+          </div>
+        </div>
         <div className="App-address">
           <img src={Location} alt={Location} className="icon" />
           <div className="text">
