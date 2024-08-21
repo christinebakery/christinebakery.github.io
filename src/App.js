@@ -7,7 +7,6 @@ import Facebook from "./assets/facebook.svg";
 import Phone from "./assets/phone.svg";
 import Location from "./assets/location.svg";
 
-//This is so I can deploy
 function App() {
   return (
     <div className="App">
